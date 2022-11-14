@@ -1,0 +1,14 @@
+{
+  "name": "the-js-power",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:gabrielcasag/the-js-power.git",
+  "author": "gabrielcasag <gaspericasag@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc1"
+  },
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
