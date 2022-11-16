@@ -14,7 +14,7 @@ export const Product = model('Product', new Schema({
     required: true
   },
   price: {
-    number: Number,
+    type: Number,
     required: true
   },
   ingredients: {
